@@ -1,5 +1,5 @@
 // Test the validity of adding a Manager 
-new const Manager = require("../lib/Manager");
+const Manager = require("../lib/Manager");
 
 // If an office number for Manager is created, it should return the tested office number
 test("Can create an office number.", () => {
