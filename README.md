@@ -1,1 +1,1 @@
-# employee-teams-generator
+# teams-generator 
