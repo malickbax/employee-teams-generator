@@ -1,4 +1,4 @@
-// Required files
+// Calling all required files
 const Manager = require("./lib/Manager.js");
 const Engineer = require("./lib/Engineer.js");
 const Intern = require("./lib/Intern.js");
@@ -136,7 +136,7 @@ function addEngineer() {
 // Function that exports the user's input to the HTML file under output folder
 function htmlBuilder () {
 // Console log message will appear when user finishes answering the prompts and HTML file is generated
-    console.log("Team created. Please refer to the generated HTML output.")
+    console.log("Team created. Please refer to the generated HTML.")
 
     fs.writeFileSync(outputPath, generateTeam(teamArray), "UTF-8")
 
