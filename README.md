@@ -5,14 +5,16 @@ This application was built to generate profiles based on inputs from Node.js Inq
 
 ## Table of Contents
 - [Description](#description)
-- [Screenshot](#screenshot-of-HTML-output)
+- [Installation](#installation)
 - [Usage Video](#usage-video)
-- [Contact](#contact)
+- [Screenshot](#screenshot-of-HTML-output)
+
+
+## Installation 
+Please clone repostitort from GitHub and install NPM Inquirer package. Please install Jest for testing.
 
 ## Usage Video
 
 # Screenshot of HTML Output
 The following image shows the generated HTML’s appearance and functionality:
-![Generated HTML Webpage Screenshot](.)
-
-## Contact
+![Generated HTML Webpage Screenshot](./assets/screenshot.png)
