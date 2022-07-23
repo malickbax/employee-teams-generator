@@ -12,7 +12,6 @@ This application was built to generate profiles based on inputs from Node.js Inq
 ## Installation 
 Please clone repostitort from GitHub and install NPM Inquirer package. Please install Jest for testing.
 
-
 ## Usage Video
 ![Walkthough Video](./assets/usage%20video.mp4)
 
