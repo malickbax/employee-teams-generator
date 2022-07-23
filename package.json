@@ -1,5 +1,39 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "name": "teams-generator",
+  "description": "A tool to add team members and generate profiles based on user input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malickbax/employee-teams-generator.git"
+  },
+  "keywords": [
+    "teams",
+    "employees",
+    "generate",
+    "profiles",
+    "work",
+    "collaboration",
+    "node",
+    "npm"
+  ],
+  "author": "Malick Ba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malickbax/employee-teams-generator/issues"
+  },
+  "homepage": "https://github.com/malickbax/employee-teams-generator#readme"
 }
