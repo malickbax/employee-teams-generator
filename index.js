@@ -45,19 +45,16 @@ function addManager() {
       name: "managerName",
       message: "Enter Manager's name?"
     },
-
     {
       type: "input",
       name: "managerId",
       message: "What is the Manager's employee ID number?"
     },
-
     {
       type: "input",
       name: "managerEmail",
       message: "What is the Manager's email address?"
     },
-
     {
       type: "input",
       name: "managerOfficeNumber",
@@ -75,25 +72,21 @@ function addManager() {
 // Add Engineer function
 function addEngineer() {
     inquirer.prompt([
-      
       {
         type: "input",
         name: "engineerName",
         message: "Enter Engineer's name"
       },
-
       {
         type: "input",
         name: "engineerId",
         message: "What is the Engineer's employee ID number?" 
       },
-
       {
         type: "input",
         name: "engineerEmail",
         message: "What is the Engineer's email address?"
       },
-
       {
         type: "input",
         name: "engineerGithub",
@@ -116,19 +109,16 @@ function addEngineer() {
         name: "internName",
         message: "Enter Intern's name"
       },
-
       {
         type: "input",
         name: "internId",
         message: "What is the intern's employee ID number?" 
       },
-
       {
         type: "input",
         name: "internEmail",
         message: "What is the intern's email address?"
       },
-
       {
         type: "input",
         name: "internSchool",
