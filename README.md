@@ -13,7 +13,7 @@ This application was built to generate profiles based on inputs from **Node.js I
 Please clone repostitort from GitHub and install NPM Inquirer package. Please install Jest for testing.
 
 ## Walkthough Video
-Walkthrough video can be found here: (./assets/usage%20video.mp4) https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view
+Walkthrough video can be found here: https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view
 
 ## Screenshot of HTML Output
 The following image shows the generated HTML’s appearance and functionality:
