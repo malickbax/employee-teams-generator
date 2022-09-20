@@ -18,3 +18,7 @@ Walkthrough video can be accessed via the following link URL: https://drive.goog
 ## Screenshot of HTML Output
 The following image shows the generated HTML’s appearance and functionality:
 ![Generated HTML Webpage Screenshot](./assets/screenshot.png)
+
+## More Information
+Author: **Malick Ba**, Software Engineer based in Virginia, USA
+For more projects, please visit my [GitHub page](https://github.com/malickbax)
