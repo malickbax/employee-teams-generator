@@ -8,6 +8,7 @@ This application was built to generate profiles based on inputs from **Node.js I
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
+- [Usage Story](#usage)
 - [Walkthough Video](#walkthough-video)
 - [Screenshot](#screenshot-of-HTML-output)
 - [Contributors](#contributors)
@@ -26,9 +27,10 @@ I need a command line input program so that...
 ## Installation 
 Please clone repostitort from GitHub and install NPM Inquirer package. Please install Jest for testing.
 
-## Walkthough Video
+## Usage
 - Use `npn run test` from the command line to run the test. Then, use `node index` to launch the application. Follow the prompts. HTLM out put will be generated under the "dist" folder and will be named "employees.html". The file can be opened in any browser and will be rendered as an HTML webpage.
 
+## Walkthough Video
 - A full walkthough video can be found at the following URL: https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing
 ![Screenshot](assets/tutorial.gif)
 
