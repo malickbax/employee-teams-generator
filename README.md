@@ -8,7 +8,7 @@ This application was built to generate profiles based on inputs from **Node.js I
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
-- [Usage Story](#usage)
+- [Usage](#usage)
 - [Walkthough Video](#walkthough-video)
 - [Screenshot](#screenshot-of-HTML-output)
 - [Contributors](#contributors)
