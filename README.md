@@ -13,8 +13,11 @@ This application was built to generate profiles based on inputs from **Node.js I
 Please clone repostitort from GitHub and install NPM Inquirer package. Please install Jest for testing.
 
 ## Walkthough Video
+- Use `npn run test` from the command line to run the test. Then, use `node index` to launch the application. Follow the prompts. HTLM out put will be generated under the "dist" folder and will be named "employees.html".
+
 - A full walkthough video can be found at the following URL: https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing
 ![Screenshot](assets/tutorial.gif)
+
 
 ## Screenshot of HTML Output
 The following image shows the generated HTML’s appearance and functionality:
