@@ -18,7 +18,6 @@ Please clone repostitort from GitHub and install NPM Inquirer package. Please in
 - A full walkthough video can be found at the following URL: https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing
 ![Screenshot](assets/tutorial.gif)
 
-
 ## Screenshot of HTML Output
 The following image shows the generated HTML’s appearance and functionality:
 ![Generated HTML Webpage Screenshot](./assets/screenshot.png)
