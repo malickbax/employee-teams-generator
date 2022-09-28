@@ -32,6 +32,7 @@ Please clone repostitort from GitHub and install NPM Inquirer package. Please in
 
 ## Walkthough Video
 - A full walkthough video can be found at the following URL: https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing
+
 ![Screenshot](assets/tutorial.gif)
 
 ## Screenshot of HTML Output
