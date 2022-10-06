@@ -43,6 +43,6 @@ The following image shows the generated HTML’s appearance and functionality:
 Malick Ba, Software Engineer
 
 ## More Information
-Author: **Malick Ba**, Software Engineer based in Virginia, USA
+Author: **Malick Ba**, Software Engineer based in Virginia, USAs
 
 For more projects, please visit my [GitHub page](https://github.com/malickbax)
